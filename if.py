@@ -1,4 +1,4 @@
-a=10
+a=9
 if a%2==0:
   print("Even")
 else:
